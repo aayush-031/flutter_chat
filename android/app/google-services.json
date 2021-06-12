@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1080803935794",
+    "project_id": "aayushchat-cd534",
+    "storage_bucket": "aayushchat-cd534.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080803935794:android:db6da3d5c689b0d1225e2b",
+        "android_client_info": {
+          "package_name": "aayush.flutter_chat_aayush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080803935794-aco5csk1ivm021667nf6o71773gh8h0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3I6nzIEj4qyEZz6L646S8F1wwNTDdryk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080803935794-aco5csk1ivm021667nf6o71773gh8h0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
